@@ -1,0 +1,5 @@
+body {background-image: url("https://wallpapersite.com/images/wallpapers/mountains-3840x2160-landscape-purple-gradient-horizon-minimal-hd-4k-13546.png") ; background-size:100% 100%;}
+p {color: white; font-size: 20px;}
+p.one {border-style: dashed;}
+p.two {border-style: double; border-width: 10px;}
+p.three {font-family: cursive;}
